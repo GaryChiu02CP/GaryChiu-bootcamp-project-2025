@@ -1,0 +1,16 @@
+body {
+  font-size: 14px;
+  color: F8F9FA;
+  background-color: 071A2A;
+}
+
+.blog {
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 1rem;
+}
+
+.blog div {
+  background-color: 9B59B6;
+  clip-path: polygon(0 0, 90% 0, 99% 99%, 0 99%);
+}
